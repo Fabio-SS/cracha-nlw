@@ -1,5 +1,6 @@
 
 //Para editar o cracha, basta editar os logins em "linksSocialMedia"
+//Exemplo: github: 'nomeUsuario'
 const linksSocialMedia = {
     github:'fabio-ss',
     youtube: 'UCLZ7CKw8yvjEpLiJydMXCbw',
