@@ -3,7 +3,7 @@
 //Exemplo: github: 'nomeUsuario'
 const linksSocialMedia = {
     github:'fabio-ss',
-    youtube: 'UCLZ7CKw8yvjEpLiJydMXCbw',
+    youtube: 'channel/UCUnw1BglLx8tc7Of7wRK0iw',
     facebook: 'faabioos',
     instagram: 'fsdssouza',
     twitter: 'faabioosouza'
@@ -14,7 +14,7 @@ const linksSocialMedia = {
       const social = li.getAttribute('class')
       li.children[0].href = `https://${social}.com/${linksSocialMedia[social]}`
 
-      //Mostrar Troca de Links
+      //Testando Troca de Links
       //alert(li.children[0].href)
     }
   }
